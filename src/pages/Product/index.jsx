@@ -1,6 +1,8 @@
 import React from "react";
 import { useParams } from "react-router-dom";
 import { ProductPage } from "../Product/styled";
+import andaimes from "../../media/andaimes.jpg"
+import receptivo from "../../media/receptivo.jpg"
 
 const Product = () => {
   const { id } = useParams();
@@ -25,10 +27,10 @@ const Product = () => {
       </div>
       <div>
         {id === "andaimes" && (
-          <img src="http://culturasoft.com.br/images/medicao1.jpg" alt="" />
+          <img src={andaimes} alt="" />
         )}
         {id === "receptivo" && (
-          <img src="http://culturasoft.com.br/images/file.jpg" alt="" />
+          <img src={receptivo} alt="" />
         )}
       </div>
     </ProductPage>
