@@ -1,4 +1,4 @@
-# Projeto criado para demonstrar um pouco das minhas habilidade em front-end para o processo-seletivo da CulturaSoft
+# Projeto criado para demonstrar um pouco das minhas habilidades em front-end, para o processo-seletivo da CulturaSoft.
 
 ### Tecnologias Usadas: 
 * React Js
