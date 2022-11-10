@@ -12,3 +12,7 @@
 Roda no endereço:
 
  [http://localhost:3000](http://localhost:3000) 
+ 
+ ### Deploy
+ 
+ [https://culturasoft-front-mvp.vercel.app/](https://culturasoft-front-mvp.vercel.app/)
